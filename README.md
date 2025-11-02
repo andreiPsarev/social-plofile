@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My repository](https://github.com/andreiPsarev/social-plofile)
+- Live Site URL: [My solution on GitHub Pages]([https://your-live-site-url.com](https://andreipsarev.github.io/social-plofile/))
 
 ## My process
 
