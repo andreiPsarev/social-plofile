@@ -22,8 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My repository](https://github.com/andreiPsarev/social-plofile)
-- Live Site URL: [My solution on GitHub Pages]([https://your-live-site-url.com](https://andreipsarev.github.io/social-plofile/))
+- Live Site URL: [My solution on GitHub Pages](https://andreipsarev.github.io/social-plofile/)
 
 ## My process
 
@@ -44,4 +43,4 @@ This project helped me get more comfortable with:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/andreiPsarev)
+- Frontend Mentor - [@andreiPsarev](https://www.frontendmentor.io/profile/andreiPsarev)
